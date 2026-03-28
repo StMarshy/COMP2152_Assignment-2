@@ -220,4 +220,4 @@ if __name__ == "__main__":
 # One useful feature I would add is a quick summary filter that groups results into well-known services,
 # such as web, remote access, and email ports, after the scan completes. A list comprehension could build
 # each category by selecting matching tuples from scan_results, which would make the final output easier to read.
-# Diagram: See diagram_101201301.png in the repository root
+# Diagram: See diagram_101565764.png in the repository root
